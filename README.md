@@ -92,8 +92,7 @@ explained there, not silently ignored).
 ## 4. Run the mobile app
 
 ```bash
-cd mobile/Product_Search_Project   # open in Android Studio, or:
-./gradlew installDebug             # build + install on a running emulator/device
+cd mobile/Product_Search_Project   # open in Android Studio
 ```
 
 Debug builds talk to `http://10.0.2.2:5001` — the Android emulator's
